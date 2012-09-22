@@ -1,0 +1,1 @@
+VERBS = YAML.load_file("#{::Rails.root}/config/verbs/conjugations.yml")

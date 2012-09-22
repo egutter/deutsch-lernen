@@ -1,0 +1,35 @@
+<h1>Verb Übung - Konjugation</h1>
+
+<p>
+  <%= form_tag :action => :validate do %>
+    <%= hidden_field_tag(:verb, @verb) %>
+    <%= hidden_field_tag(:person, @person) %>
+    <%= hidden_field_tag(:number, @number) %>
+    Wie sagt man <strong><%= @verb %></strong> auf Deutsch?
+    <br/>
+    <br/>
+    <%= @who %>: <%= text_field_tag(:conjugation, @conjugation, :autocomplete => 'off') %>
+    <% if @conjugation_success %>
+      Richtig!!
+    <% end %>
+    <% if @show_solution %>
+      <b><%= @solution[@number][@person] %></b>
+    <% elsif @conjugation_failed %>
+      Falsch!!
+    <% end %>
+    <br />
+    <small><%= label_tag(:conjugation, "Kongugation die #{@person.gsub('-', ' ')} #{@number} im Präsens") %></small>
+    <br>
+    <% if @conjugation_failed %>
+      <br />
+      Lösung anzeigen <%= check_box_tag(:show_solution, true, @show_solution) %>
+      <br />
+    <% end %>
+    <br />
+    <% if (@conjugation_failed || !@conjugation_success) && !@show_solution%>
+      <%= submit_tag("Korrigieren") %>
+    <% end %>
+    <%= link_to 'Wieder spielen', :action => :conjugation %>
+
+  <% end %>
+</p>

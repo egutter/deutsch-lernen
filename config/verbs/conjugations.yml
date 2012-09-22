@@ -1,0 +1,420 @@
+Ser:
+  singular:
+    erste-person: bin
+    zweite-person: bist
+    dritte-person: ist
+  plural:
+    erste-person: sind
+    zweite-person: seid
+    dritte-person: sind
+Tener:
+  singular:
+    erste-person: habe
+    zweite-person: hast
+    dritte-person: hat
+  plural:
+    erste-person: haben
+    zweite-person: habt
+    dritte-person: haben
+Hablar:
+  singular:
+    erste-person: spreche
+    zweite-person: sprichst
+    dritte-person: spricht
+  plural:
+    erste-person: sprechen
+    zweite-person: sprecht
+    dritte-person: sprechen
+Deber:
+  singular:
+    erste-person: muss
+    zweite-person: musst
+    dritte-person: muss
+  plural:
+    erste-person: müssen
+    zweite-person: müsst
+    dritte-person: müssen
+Pensar:
+  singular:
+    erste-person: denken
+    zweite-person: denkst
+    dritte-person: denkt
+  plural:
+    erste-person: denken
+    zweite-person: denkt
+    dritte-person: denken
+Beber:
+  singular:
+    erste-person: trinke
+    zweite-person: trinkst
+    dritte-person: trinkt
+  plural:
+    erste-person: trinken
+    zweite-person: trinkt
+    dritte-person: trinken
+Comer:
+  singular:
+    erste-person: esse
+    zweite-person: isst
+    dritte-person: isst
+  plural:
+    erste-person: essen
+    zweite-person: esst
+    dritte-person: essen
+Leer:
+  singular:
+    erste-person: lese
+    zweite-person: liest
+    dritte-person: liest
+  plural:
+    erste-person: lesen
+    zweite-person: lest
+    dritte-person: lesen
+Escribir:
+  singular:
+    erste-person: schreibe
+    zweite-person: schreibst
+    dritte-person: schreibt
+  plural:
+    erste-person: schreiben
+    zweite-person: schreibt
+    dritte-person: schreiben
+Escuchar:
+  singular:
+    erste-person: höre
+    zweite-person: hörst
+    dritte-person: hört
+  plural:
+    erste-person: hören
+    zweite-person: hört
+    dritte-person: hören
+Ver:
+  singular:
+    erste-person: sehe
+    zweite-person: siehst
+    dritte-person: sieht
+  plural:
+    erste-person: sehen
+    zweite-person: seht
+    dritte-person: sehen
+Ir:
+  singular:
+    erste-person: gehe
+    zweite-person: gehst
+    dritte-person: geht
+  plural:
+    erste-person: gehen
+    zweite-person: geht
+    dritte-person: gehen
+Correr:
+  singular:
+    erste-person: laufe
+    zweite-person: läufst
+    dritte-person: läuft
+  plural:
+    erste-person: laufen
+    zweite-person: lauft
+    dritte-person: laufen
+Querer:
+  singular:
+    erste-person: will
+    zweite-person: willst
+    dritte-person: will
+  plural:
+    erste-person: wollen
+    zweite-person: wollt
+    dritte-person: wollen
+Quisiera:
+  singular:
+    erste-person: möchte
+    zweite-person: möchtest
+    dritte-person: möchtet
+  plural:
+    erste-person: möchtent
+    zweite-person: möchte
+    dritte-person: möchten
+Gustar:
+  singular:
+    erste-person: mag
+    zweite-person: magst
+    dritte-person: mag
+  plural:
+    erste-person: mögen
+    zweite-person: mögt
+    dritte-person: mögen
+Amar:
+  singular:
+    erste-person: liebe
+    zweite-person: liebst
+    dritte-person: liebt
+  plural:
+    erste-person: lieben
+    zweite-person: liebt
+    dritte-person: lieben
+Vivir:
+  singular:
+    erste-person: lebe
+    zweite-person: lebst
+    dritte-person: lebt
+  plural:
+    erste-person: leben
+    zweite-person: lebt
+    dritte-person: leben
+Jugar:
+  singular:
+    erste-person: spiele
+    zweite-person: spielst
+    dritte-person: spielt
+  plural:
+    erste-person: spielen
+    zweite-person: spielt
+    dritte-person: spielen
+Besar:
+  singular:
+    erste-person: küsse
+    zweite-person: küsst
+    dritte-person: küsst
+  plural:
+    erste-person: küssen
+    zweite-person: küsst
+    dritte-person: küssen
+Andar:
+  singular:
+    erste-person: fahre
+    zweite-person: fährst
+    dritte-person: fährt
+  plural:
+    erste-person: fahren
+    zweite-person: fahrt
+    dritte-person: fahren
+Dormir:
+  singular:
+    erste-person: schlafe
+    zweite-person: schläfst
+    dritte-person: schläft
+  plural:
+    erste-person: schlafen
+    zweite-person: schlaft
+    dritte-person: schlafen
+Bañar:
+  singular:
+    erste-person: bade
+    zweite-person: badest
+    dritte-person: badet
+  plural:
+    erste-person: baden
+    zweite-person: badet
+    dritte-person: baden
+Lavar:
+   singular:
+     erste-person: wasche
+     zweite-person: wäschst
+     dritte-person: wäscht
+   plural:
+     erste-person: waschen
+     zweite-person: wascht
+     dritte-person: waschen
+Pararse:
+   singular:
+     erste-person: stehe
+     zweite-person: stehst
+     dritte-person: steht
+   plural:
+     erste-person: stehen
+     zweite-person: steht
+     dritte-person: stehen
+Comprar:
+   singular:
+     erste-person: kaufe
+     zweite-person: kaufst
+     dritte-person: kauft
+   plural:
+     erste-person: kaufen
+     zweite-person: kauft
+     dritte-person: kaufen
+Vender:
+   singular:
+     erste-person: verkaufe
+     zweite-person: verkaufst
+     dritte-person: verkauft
+   plural:
+     erste-person: verkaufen
+     zweite-person: verkauft
+     dritte-person: verkaufen
+Llevar:
+   singular:
+     erste-person: nehme
+     zweite-person: nimmst
+     dritte-person: nimmt
+   plural:
+     erste-person: nehmen
+     zweite-person: nehmt
+     dritte-person: nehmen
+Usar:
+   singular:
+     erste-person: verwende
+     zweite-person: verwendest
+     dritte-person: verwendet
+   plural:
+     erste-person: verwenden
+     zweite-person: verwendet
+     dritte-person: verwenden
+Creer:
+   singular:
+     erste-person: glauben
+     zweite-person: glaubst
+     dritte-person: glaubt
+   plural:
+     erste-person: glauben
+     zweite-person: glaubt
+     dritte-person: glauben
+Saber:
+   singular:
+     erste-person: weiß
+     zweite-person: weißt
+     dritte-person: weiß
+   plural:
+     erste-person: wissen
+     zweite-person: wisst
+     dritte-person: wissen
+Viajar:
+   singular:
+     erste-person: reise
+     zweite-person: reist
+     dritte-person: reist
+   plural:
+     erste-person: reisen
+     zweite-person: reist
+     dritte-person: reise
+Sentarse:
+   singular:
+     erste-person: sitze
+     zweite-person: sitzt
+     dritte-person: sitzt
+   plural:
+     erste-person: sitzen
+     zweite-person: sitzt
+     dritte-person: sitzen
+Preguntar:
+   singular:
+     erste-person: frage
+     zweite-person: fragst
+     dritte-person: fragt
+   plural:
+     erste-person: fragen
+     zweite-person: fragt
+     dritte-person: fragen
+Decir:
+   singular:
+     erste-person: sage
+     zweite-person: sagst
+     dritte-person: sagt
+   plural:
+     erste-person: sagen
+     zweite-person: sagt
+     dritte-person: sagen
+Estudiar:
+   singular:
+     erste-person: studiere
+     zweite-person: studierst
+     dritte-person: studiert
+   plural:
+     erste-person: studieren
+     zweite-person: studiert
+     dritte-person: studieren
+Aprender:
+   singular:
+     erste-person: lerne
+     zweite-person: lernst
+     dritte-person: lernt
+   plural:
+     erste-person: lernen
+     zweite-person: lernt
+     dritte-person: lernen
+Llamarse:
+   singular:
+     erste-person: heiße
+     zweite-person: heißt
+     dritte-person: heißt
+   plural:
+     erste-person: heißen
+     zweite-person: heißt
+     dritte-person: heißen
+Llorar:
+   singular:
+     erste-person: weine
+     zweite-person: weinst
+     dritte-person: weint
+   plural:
+     erste-person: weinen
+     zweite-person: weint
+     dritte-person: weinen
+Reir:
+   singular:
+     erste-person: lache
+     zweite-person: lachst
+     dritte-person: lacht
+   plural:
+     erste-person: lachen
+     zweite-person: lacht
+     dritte-person: lachen
+Cantar:
+   singular:
+     erste-person: singe
+     zweite-person: singst
+     dritte-person: singt
+   plural:
+     erste-person: singen
+     zweite-person: singt
+     dritte-person: singen
+Soñar:
+   singular:
+     erste-person: träume
+     zweite-person: träumst
+     dritte-person: träumt
+   plural:
+     erste-person: träumen
+     zweite-person: träumt
+     dritte-person: träumen
+Mentir:
+   singular:
+     erste-person: liege
+     zweite-person: liegst
+     dritte-person: liegt
+   plural:
+     erste-person: liegen
+     zweite-person: liegt
+     dritte-person: liegen
+Luchar/Pelear:
+   singular:
+     erste-person: kämpfe
+     zweite-person: kämpfst
+     dritte-person: kämpft
+   plural:
+     erste-person: kämpfen
+     zweite-person: kämpft
+     dritte-person: kämpfen
+Contar:
+   singular:
+     erste-person: zähle
+     zweite-person: zählst
+     dritte-person: zählt
+   plural:
+     erste-person: zählen
+     zweite-person: zählt
+     dritte-person: zählen
+Cocinar:
+   singular:
+     erste-person: koche
+     zweite-person: kochst
+     dritte-person: kocht
+   plural:
+     erste-person: kochen
+     zweite-person: kocht
+     dritte-person: kochen
+#Matar
+#Morir
+#Nacer
+#Disparar
+#Apagar
+#Encender
