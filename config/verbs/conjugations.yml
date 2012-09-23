@@ -1,4 +1,4 @@
-Ser:
+Be:
   singular:
     erste-person: bin
     zweite-person: bist
@@ -7,7 +7,7 @@ Ser:
     erste-person: sind
     zweite-person: seid
     dritte-person: sind
-Tener:
+Have:
   singular:
     erste-person: habe
     zweite-person: hast
@@ -16,7 +16,7 @@ Tener:
     erste-person: haben
     zweite-person: habt
     dritte-person: haben
-Hablar:
+Speak:
   singular:
     erste-person: spreche
     zweite-person: sprichst
@@ -25,7 +25,7 @@ Hablar:
     erste-person: sprechen
     zweite-person: sprecht
     dritte-person: sprechen
-Deber:
+Must:
   singular:
     erste-person: muss
     zweite-person: musst
@@ -34,7 +34,7 @@ Deber:
     erste-person: müssen
     zweite-person: müsst
     dritte-person: müssen
-Pensar:
+Think:
   singular:
     erste-person: denken
     zweite-person: denkst
@@ -43,7 +43,7 @@ Pensar:
     erste-person: denken
     zweite-person: denkt
     dritte-person: denken
-Beber:
+Drink:
   singular:
     erste-person: trinke
     zweite-person: trinkst
@@ -52,7 +52,7 @@ Beber:
     erste-person: trinken
     zweite-person: trinkt
     dritte-person: trinken
-Comer:
+Eat:
   singular:
     erste-person: esse
     zweite-person: isst
@@ -61,7 +61,7 @@ Comer:
     erste-person: essen
     zweite-person: esst
     dritte-person: essen
-Leer:
+Read:
   singular:
     erste-person: lese
     zweite-person: liest
@@ -70,7 +70,7 @@ Leer:
     erste-person: lesen
     zweite-person: lest
     dritte-person: lesen
-Escribir:
+Write:
   singular:
     erste-person: schreibe
     zweite-person: schreibst
@@ -79,7 +79,7 @@ Escribir:
     erste-person: schreiben
     zweite-person: schreibt
     dritte-person: schreiben
-Escuchar:
+Hear:
   singular:
     erste-person: höre
     zweite-person: hörst
@@ -88,7 +88,7 @@ Escuchar:
     erste-person: hören
     zweite-person: hört
     dritte-person: hören
-Ver:
+See:
   singular:
     erste-person: sehe
     zweite-person: siehst
@@ -97,7 +97,7 @@ Ver:
     erste-person: sehen
     zweite-person: seht
     dritte-person: sehen
-Ir:
+Go:
   singular:
     erste-person: gehe
     zweite-person: gehst
@@ -106,7 +106,7 @@ Ir:
     erste-person: gehen
     zweite-person: geht
     dritte-person: gehen
-Correr:
+Run:
   singular:
     erste-person: laufe
     zweite-person: läufst
@@ -115,7 +115,7 @@ Correr:
     erste-person: laufen
     zweite-person: lauft
     dritte-person: laufen
-Querer:
+Want:
   singular:
     erste-person: will
     zweite-person: willst
@@ -124,7 +124,7 @@ Querer:
     erste-person: wollen
     zweite-person: wollt
     dritte-person: wollen
-Quisiera:
+Would like:
   singular:
     erste-person: möchte
     zweite-person: möchtest
@@ -133,7 +133,7 @@ Quisiera:
     erste-person: möchtent
     zweite-person: möchte
     dritte-person: möchten
-Gustar:
+Like:
   singular:
     erste-person: mag
     zweite-person: magst
@@ -142,7 +142,7 @@ Gustar:
     erste-person: mögen
     zweite-person: mögt
     dritte-person: mögen
-Amar:
+Love:
   singular:
     erste-person: liebe
     zweite-person: liebst
@@ -151,7 +151,7 @@ Amar:
     erste-person: lieben
     zweite-person: liebt
     dritte-person: lieben
-Vivir:
+Live:
   singular:
     erste-person: lebe
     zweite-person: lebst
@@ -160,7 +160,7 @@ Vivir:
     erste-person: leben
     zweite-person: lebt
     dritte-person: leben
-Jugar:
+Play:
   singular:
     erste-person: spiele
     zweite-person: spielst
@@ -169,7 +169,7 @@ Jugar:
     erste-person: spielen
     zweite-person: spielt
     dritte-person: spielen
-Besar:
+Kiss:
   singular:
     erste-person: küsse
     zweite-person: küsst
@@ -178,7 +178,7 @@ Besar:
     erste-person: küssen
     zweite-person: küsst
     dritte-person: küssen
-Andar:
+Drive/ride/go with:
   singular:
     erste-person: fahre
     zweite-person: fährst
@@ -187,7 +187,7 @@ Andar:
     erste-person: fahren
     zweite-person: fahrt
     dritte-person: fahren
-Dormir:
+Sleep:
   singular:
     erste-person: schlafe
     zweite-person: schläfst
@@ -196,7 +196,7 @@ Dormir:
     erste-person: schlafen
     zweite-person: schlaft
     dritte-person: schlafen
-Bañar:
+Bath:
   singular:
     erste-person: bade
     zweite-person: badest
@@ -205,7 +205,7 @@ Bañar:
     erste-person: baden
     zweite-person: badet
     dritte-person: baden
-Lavar:
+Wash:
    singular:
      erste-person: wasche
      zweite-person: wäschst
@@ -214,7 +214,7 @@ Lavar:
      erste-person: waschen
      zweite-person: wascht
      dritte-person: waschen
-Pararse:
+Stand:
    singular:
      erste-person: stehe
      zweite-person: stehst
@@ -223,7 +223,7 @@ Pararse:
      erste-person: stehen
      zweite-person: steht
      dritte-person: stehen
-Comprar:
+Buy:
    singular:
      erste-person: kaufe
      zweite-person: kaufst
@@ -232,7 +232,7 @@ Comprar:
      erste-person: kaufen
      zweite-person: kauft
      dritte-person: kaufen
-Vender:
+Sell:
    singular:
      erste-person: verkaufe
      zweite-person: verkaufst
@@ -241,7 +241,7 @@ Vender:
      erste-person: verkaufen
      zweite-person: verkauft
      dritte-person: verkaufen
-Llevar:
+Take:
    singular:
      erste-person: nehme
      zweite-person: nimmst
@@ -250,7 +250,7 @@ Llevar:
      erste-person: nehmen
      zweite-person: nehmt
      dritte-person: nehmen
-Usar:
+Use:
    singular:
      erste-person: verwende
      zweite-person: verwendest
@@ -259,7 +259,7 @@ Usar:
      erste-person: verwenden
      zweite-person: verwendet
      dritte-person: verwenden
-Creer:
+Believe:
    singular:
      erste-person: glauben
      zweite-person: glaubst
@@ -268,7 +268,7 @@ Creer:
      erste-person: glauben
      zweite-person: glaubt
      dritte-person: glauben
-Saber:
+Know:
    singular:
      erste-person: weiß
      zweite-person: weißt
@@ -277,7 +277,7 @@ Saber:
      erste-person: wissen
      zweite-person: wisst
      dritte-person: wissen
-Viajar:
+Travel:
    singular:
      erste-person: reise
      zweite-person: reist
@@ -286,7 +286,7 @@ Viajar:
      erste-person: reisen
      zweite-person: reist
      dritte-person: reise
-Sentarse:
+Sit:
    singular:
      erste-person: sitze
      zweite-person: sitzt
@@ -295,7 +295,7 @@ Sentarse:
      erste-person: sitzen
      zweite-person: sitzt
      dritte-person: sitzen
-Preguntar:
+Ask:
    singular:
      erste-person: frage
      zweite-person: fragst
@@ -304,7 +304,7 @@ Preguntar:
      erste-person: fragen
      zweite-person: fragt
      dritte-person: fragen
-Decir:
+Say:
    singular:
      erste-person: sage
      zweite-person: sagst
@@ -313,7 +313,7 @@ Decir:
      erste-person: sagen
      zweite-person: sagt
      dritte-person: sagen
-Estudiar:
+Study:
    singular:
      erste-person: studiere
      zweite-person: studierst
@@ -322,7 +322,7 @@ Estudiar:
      erste-person: studieren
      zweite-person: studiert
      dritte-person: studieren
-Aprender:
+Learn:
    singular:
      erste-person: lerne
      zweite-person: lernst
@@ -331,7 +331,7 @@ Aprender:
      erste-person: lernen
      zweite-person: lernt
      dritte-person: lernen
-Llamarse:
+Be called:
    singular:
      erste-person: heiße
      zweite-person: heißt
@@ -340,7 +340,7 @@ Llamarse:
      erste-person: heißen
      zweite-person: heißt
      dritte-person: heißen
-Llorar:
+Cry:
    singular:
      erste-person: weine
      zweite-person: weinst
@@ -349,7 +349,7 @@ Llorar:
      erste-person: weinen
      zweite-person: weint
      dritte-person: weinen
-Reir:
+Laugh:
    singular:
      erste-person: lache
      zweite-person: lachst
@@ -358,7 +358,7 @@ Reir:
      erste-person: lachen
      zweite-person: lacht
      dritte-person: lachen
-Cantar:
+Sing:
    singular:
      erste-person: singe
      zweite-person: singst
@@ -367,7 +367,7 @@ Cantar:
      erste-person: singen
      zweite-person: singt
      dritte-person: singen
-Soñar:
+Dream:
    singular:
      erste-person: träume
      zweite-person: träumst
@@ -376,7 +376,7 @@ Soñar:
      erste-person: träumen
      zweite-person: träumt
      dritte-person: träumen
-Mentir:
+Lie:
    singular:
      erste-person: liege
      zweite-person: liegst
@@ -385,7 +385,7 @@ Mentir:
      erste-person: liegen
      zweite-person: liegt
      dritte-person: liegen
-Luchar/Pelear:
+Fight:
    singular:
      erste-person: kämpfe
      zweite-person: kämpfst
@@ -394,7 +394,7 @@ Luchar/Pelear:
      erste-person: kämpfen
      zweite-person: kämpft
      dritte-person: kämpfen
-Contar:
+Count:
    singular:
      erste-person: zähle
      zweite-person: zählst
@@ -403,7 +403,7 @@ Contar:
      erste-person: zählen
      zweite-person: zählt
      dritte-person: zählen
-Cocinar:
+Cook:
    singular:
      erste-person: koche
      zweite-person: kochst
@@ -412,9 +412,9 @@ Cocinar:
      erste-person: kochen
      zweite-person: kocht
      dritte-person: kochen
-#Matar
-#Morir
-#Nacer
-#Disparar
-#Apagar
-#Encender
+#Kill
+#Die
+#Born
+#shoot
+#Turn off
+#Turn on
