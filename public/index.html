@@ -1,0 +1,67 @@
+<!doctype html>
+<html ng-app="form-verb"  lang="de">
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.6/angular.min.js"></script>
+        <script src="controllers.js" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="bootstrap-responsive.min.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="page-header">
+                <h1>Verben &Uuml;bung</h1>
+            </div>
+            <div ng-controller="VerbsController">
+                <form name="form" class="css-form" novalidate>
+                    <div class="row">
+                        <div class="span9">
+                            <span>Wie sagt man <b>{{translate.english}}</b> auf Deutsch?</span>
+                        </div>
+                    </div>
+                    <br/>
+                    <div class="row">
+                        <div class="span1">
+                            <label>Infinitiv</label>
+                        </div>
+                        <div class="span3">
+                            <input type="text" ng-model="response.infinitive" placeholder="Geben Sie Ihre Antwort hier">
+                        </div>
+                        <div class="span5">
+                            <span ng-show="response.infinitive && valid(response.infinitive, translate.german)">Ihre Antwort ist <span class="label label-success">Richtig!</span></span>
+                            <span ng-show="response.infinitive && !valid(response.infinitive, translate.german)">Ihre Antwort ist <span class="label label-important">Falsch!</span></span>
+                        </div>
+                    </div>
+                    <hr />
+                    <div class="row">
+                        <div class="span1">
+                            <label>{{singularPerson[singularNumber]}}:</label>
+                        </div>
+                        <div class="span3">
+                            <input type="text" ng-model="response.singular" placeholder="Geben Sie Ihre Antwort hier">
+                        </div>
+                        <div class="span5">
+                            <span ng-show="response.singular && valid(response.singular, translate.singular[singularNumber])">Ihre Antwort ist <span class="label label-success">Richtig!</span></span>
+                            <span ng-show="response.singular && !valid(response.singular, translate.singular[singularNumber])">Ihre Antwort ist <span class="label label-important">Falsch!</span></span>
+                        </div>
+                    </div>
+                    <hr />
+                    <div class="row">
+                        <div class="span1">
+                            <label>{{pluralPerson[pluralNumber]}}:</label>
+                        </div>
+                        <div class="span3">
+                            <input type="text" ng-model="response.plural" placeholder="Geben Sie Ihre Antwort hier">
+                        </div>
+                        <div class="span5">
+                            <span ng-show="response.plural && valid(response.plural, translate.plural[pluralNumber])">Ihre Antwort ist <span class="label label-success">Richtig!</span></span>
+                            <span ng-show="response.plural && !valid(response.plural, translate.plural[pluralNumber])">Ihre Antwort ist <span class="label label-important">Falsch!</span></span>
+                        </div>
+                    </div>
+                    <hr />
+                    <button ng-click="reset()" class="btn btn-primary">Nochmal spielen</button>
+                    <button ng-click="answers()" class="btn btn-warning">Gibt mir die Antworten</button>
+                </form>
+            </div>
+        </div>
+    </body>
+</html>
