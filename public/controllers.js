@@ -54,6 +54,8 @@ function VerbsController($scope) {
     $scope.reset = function() {
       form.reset();
       $scope.translate = $scope.pickVerb();
+      $scope.singularNumber = Math.floor((Math.random() * 3));
+      $scope.pluralNumber = Math.floor((Math.random() * 3));
       $scope.response = {};
     };
 
