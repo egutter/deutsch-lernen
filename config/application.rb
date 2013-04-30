@@ -58,5 +58,8 @@ module DeutscheLernen
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+
+    # If you want to strip template root from template names, add templates_root option to your application configuration block :
+    config.handlebars.templates_root = 'templates'
   end
 end

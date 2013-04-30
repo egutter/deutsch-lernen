@@ -412,6 +412,32 @@ Cook:
      erste-person: kochen
      zweite-person: kocht
      dritte-person: kochen
+Do:
+   singular:
+     erste-person: mache
+     zweite-person: machst
+     dritte-person: macht
+   plural:
+     erste-person: machen
+     zweite-person: macht
+     dritte-person: machen
+Can:
+   singular:
+     erste-person: kann
+     zweite-person: kannst
+     dritte-person: kann
+   plural:
+     erste-person: können
+     zweite-person: könnt
+     dritte-person: können
+#Put:legen:
+#Smile:lächeln
+#Return: zurückkommen
+#Will: werden
+#Meet: kennenlernen
+#Look like: aussehen
+#dance: tanzen
+
 #Kill
 #Die
 #Born
